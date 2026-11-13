@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 590" role="img" aria-labelledby="title desc">
+  <title id="title">A quiet desk</title>
+  <desc id="desc">An open journal, a cup of tea, and a leafy plant in warm morning light.</desc>
+  <defs>
+    <linearGradient id="wall" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#e4e9dc"/>
+      <stop offset="1" stop-color="#cfd9c9"/>
+    </linearGradient>
+    <linearGradient id="table" x1="0" x2="0" y1="0" y2="1">
+      <stop stop-color="#c69d75"/>
+      <stop offset="1" stop-color="#a77c59"/>
+    </linearGradient>
+    <linearGradient id="page" x1="0" x2="1">
+      <stop stop-color="#fffdf5"/>
+      <stop offset="1" stop-color="#f2eadc"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="590" fill="url(#wall)"/>
+  <circle cx="650" cy="104" r="48" fill="#e9d9b8" opacity=".8"/>
+  <path d="M0 413H800V590H0z" fill="url(#table)"/>
+  <path d="M0 438c150-35 302-14 430 6s251 14 370-9v28c-147 29-265 19-407-1S142 437 0 466z" fill="#8f6c52" opacity=".18"/>
+  <ellipse cx="392" cy="447" rx="228" ry="33" fill="#5c503f" opacity=".16"/>
+  <g transform="translate(543 256)">
+    <path d="M36 116c-14-36-5-76 9-111M45 95C21 65 7 47 4 25c25 7 43 23 48 52M44 76c18-35 39-48 61-52-5 25-22 44-56 60M39 59C17 38 12 15 18-4c21 13 31 30 29 54M48 53c7-31 23-48 46-59 2 24-10 45-43 68" fill="none" stroke="#718a68" stroke-linecap="round" stroke-width="8"/>
+    <path d="M7 111h92l-11 84H18z" fill="#b87961"/>
+    <path d="M14 119h78" stroke="#d39a78" stroke-width="7"/>
+    <ellipse cx="52" cy="198" rx="51" ry="9" fill="#81634f" opacity=".2"/>
+  </g>
+  <g transform="rotate(-5 340 350)">
+    <path d="M159 270c75-20 142-18 205 6v159c-66-22-132-22-205-1z" fill="#d4c7af"/>
+    <path d="M162 259c74-17 139-13 202 12v154c-66-20-132-19-202 1z" fill="url(#page)" stroke="#d8cbb5" stroke-width="2"/>
+    <path d="M364 271c63-18 126-17 195 1l-5 167c-68-18-130-19-194-1z" fill="#e8ddca"/>
+    <path d="M369 262c63-17 126-16 193 2l-4 166c-68-17-130-18-194 0z" fill="url(#page)" stroke="#d8cbb5" stroke-width="2"/>
+    <path d="M177 291c44-9 87-9 127-1M177 313c44-9 87-8 127 1M177 335c44-8 87-7 127 2M177 357c44-8 87-6 127 2M177 379c44-8 87-6 127 2M384 291c44-9 88-8 160 1M383 313c45-9 90-7 160 2M383 335c45-8 90-5 159 3M383 357c45-8 90-5 159 3M382 379c46-8 91-4 159 4" stroke="#bec2ae" stroke-linecap="round" stroke-width="3" opacity=".75"/>
+    <path d="M339 272v161" stroke="#c6b8a2" stroke-width="3"/>
+  </g>
+  <g transform="translate(86 315)">
+    <ellipse cx="74" cy="132" rx="82" ry="14" fill="#5c503f" opacity=".16"/>
+    <path d="M24 24h103l-12 94c-2 17-17 30-34 30H70c-17 0-32-13-34-30z" fill="#f3efe2"/>
+    <path d="M33 59h84l-8 62c-2 12-11 20-23 20H69c-12 0-21-8-23-20z" fill="#a76b4e"/>
+    <path d="M127 46c36-5 42 47 1 50" fill="none" stroke="#f3efe2" stroke-width="13"/>
+    <path d="M28 52h94" stroke="#d6c6a9" stroke-width="5"/>
+    <path d="M57 18c-6-12 9-20 3-32M81 18c-6-12 9-20 3-32" fill="none" stroke="#fff9ec" stroke-linecap="round" stroke-width="4" opacity=".8"/>
+  </g>
+  <path d="M91 96h193v158H91z" fill="#e8eee5" opacity=".75"/>
+  <path d="M109 113h157v124H109z" fill="#d2dfd2"/>
+  <path d="M109 201c31-47 57-55 79-22 25-51 49-46 78 15v43H109z" fill="#8a9e80"/>
+  <path d="M108 174h158" stroke="#f6f3e7" stroke-width="9"/>
+  <path d="M188 112v125" stroke="#f6f3e7" stroke-width="9"/>
+  <path d="M0 0h800v590H0z" fill="none" stroke="#fff" stroke-opacity=".16" stroke-width="16"/>
+</svg>
